@@ -1,6 +1,6 @@
 {
   "name": "promisify-jsonp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "mini jsonp with promisify",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/qizhou23/promisify-jsonp"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "jsonp"
